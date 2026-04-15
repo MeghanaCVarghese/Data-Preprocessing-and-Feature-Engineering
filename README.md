@@ -8,7 +8,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Preprocessing-orange?logo=scikit-learn)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/MeghanaCVarghese/Data-Preprocessing-and-Feature-Engineering)
+
 
 A complete machine learning workflow focusing on data cleaning, transformation, feature engineering, and feature selection using the Adult Income dataset.
 
