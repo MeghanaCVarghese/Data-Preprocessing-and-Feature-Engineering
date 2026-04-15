@@ -91,13 +91,9 @@ Applied techniques such as:
 ## 🛠️ Tech Stack
 
 Python 🐍
-
 Pandas
-
 NumPy
-
 Scikit-learn
-
 Matplotlib / Seaborn
 
 ---
