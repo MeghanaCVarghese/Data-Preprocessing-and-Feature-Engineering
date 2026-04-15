@@ -90,25 +90,17 @@ Applied techniques such as:
  
 ## 🛠️ Tech Stack
 
-Python 🐍
-Pandas
-NumPy
-Scikit-learn
-Matplotlib / Seaborn
+* Python 🐍
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib / Seaborn
 
 ---
 
 ## 📌 Conclusion
 
 This project highlights how proper preprocessing and feature engineering significantly improve machine learning model performance. These steps are critical in transforming raw data into meaningful insights.
-
----
-
-## 📎 Repository Structure
-
-├── Data-Preprocessing-and-Feature-Engineering.ipynb
-
-├── README.md
 
 ---
 
