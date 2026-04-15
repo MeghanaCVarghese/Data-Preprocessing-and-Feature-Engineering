@@ -91,9 +91,13 @@ Applied techniques such as:
 ## 🛠️ Tech Stack
 
 Python 🐍
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib / Seaborn
 
 ---
@@ -107,6 +111,7 @@ This project highlights how proper preprocessing and feature engineering signifi
 ## 📎 Repository Structure
 
 ├── Data-Preprocessing-and-Feature-Engineering.ipynb
+
 ├── README.md
 
 ---
@@ -114,4 +119,5 @@ This project highlights how proper preprocessing and feature engineering signifi
 ## ✨ Author
 
 Meghana C Varghese
+
 Data Scientist | Machine Learning Enthusiast
