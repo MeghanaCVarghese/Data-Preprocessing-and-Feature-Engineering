@@ -24,7 +24,7 @@ Features include: age, workclass, education, occupation, etc.
 
 ---
 
-⚙️ Workflow
+## ⚙️ Workflow
 
 1️⃣ Data Exploration & Cleaning
 
@@ -78,7 +78,7 @@ Applied techniques such as:
 
 ---
 
-📊 Key Learnings
+## 📊 Key Learnings
 
 - Importance of handling missing values correctly
 - Impact of feature scaling on model performance
@@ -88,7 +88,7 @@ Applied techniques such as:
 
  ---
  
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python 🐍
 Pandas
@@ -98,20 +98,20 @@ Matplotlib / Seaborn
 
 ---
 
-📌 Conclusion
+## 📌 Conclusion
 
 This project highlights how proper preprocessing and feature engineering significantly improve machine learning model performance. These steps are critical in transforming raw data into meaningful insights.
 
 ---
 
-📎 Repository Structure
+## 📎 Repository Structure
 
 ├── Data-Preprocessing-and-Feature-Engineering.ipynb
 ├── README.md
 
 ---
 
-✨ Author
+## ✨ Author
 
 Meghana C Varghese
 Data Scientist | Machine Learning Enthusiast
